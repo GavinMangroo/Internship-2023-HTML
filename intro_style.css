@@ -1,0 +1,56 @@
+body
+{
+    background-color: rgb(32, 32, 32);
+}
+
+.header
+{
+    color: gold;
+    text-align: center; 
+    border-width: 3px;
+    border-style: solid;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-color: gold;
+}
+
+.footer
+{
+    color: gold;
+    bottom: 0;
+    width: 99%;
+    height: 50px;
+    border-width: 3px;
+    border-style: solid;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    border-color: gold;
+    text-align: right;
+}
+
+.background-block
+{
+    margin: auto;
+    width: 50%;
+    color: gold;
+}
+
+.interests-and-hobbies-block
+{
+    margin: auto;
+    width: 50%;
+    color: gold;
+}
+
+.goals-block
+{
+    margin: auto;
+    width: 50%;
+    color: gold;    
+}
+
+
+
+
